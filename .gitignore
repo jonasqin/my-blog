@@ -1,0 +1,8 @@
+.docusaurus
+.idea
+build
+node_modules
+yarn-error.log
+yarn.lock
+docs/one.md
+package-lock.json
