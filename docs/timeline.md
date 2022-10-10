@@ -11,14 +11,11 @@ emmm是这样的，正常来说博客会有个按时间线展示更新的页面�
 
 ## 区块链部分
 
-点这里转到会**及时更新**的[博客](/blog)页面；目前只有一篇博客，同时也暂时充当了本站的[Prologue](/docs/homepage)
-
-以及……这里有一些我日常会保持更新的分享：
-
-[twitter个人观点整理](https://jojonas.notion.site/40716ed835e74374954c82306c35040b?v=753800385ead45ceba7eebff7b785595)
-
+点这里转到会**及时更新**的[博客](/blog)页面；目前只有一篇博客，同时也暂时充当了本站的[Prologue](/docs/homepage)<br/>
+以及……这里有一些我日常会保持更新的分享：<br/>
+[twitter个人观点整理](https://jojonas.notion.site/40716ed835e74374954c82306c35040b?v=753800385ead45ceba7eebff7b785595)<br/>
 [每周好文分享（区块链相关）](https://jojonas.notion.site/deb2552fdecf4fc19ac90214f3157cc7?v=4d45294097d54ad68eb1f5f1c839b22c)
-
+<br/>
 对了，你也可以订阅[MatrixDAO](https://twitter.com/MatrixDAO_)的[substack](https://matrixdao.substack.com/)获取完整情报（这不是广告hhh）
 
 <div class="card-demo">
@@ -54,8 +51,6 @@ emmm是这样的，正常来说博客会有个按时间线展示更新的页面�
 ## 小说部分
 
 <span class="badge badge--primary">2022/10/5</span>&nbsp;&nbsp;更新了&nbsp;&nbsp;<a href="/docs/Novels/past_days/life_spread">案例</a>
-
-<br />
 
 <div class="card-demo">
   <div class="card">
