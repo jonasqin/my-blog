@@ -32,7 +32,7 @@ sidebar_position: 14
     href="https://twitter.com/jokenomicser">
     <img
       alt="My Profile"
-      src="https://avatars.githubusercontent.com/u/114914856?v=4?s=400" />
+      src="https://avatars.githubusercontent.com/u/47141170" />
   </a>
   <div class="avatar__intro">
     <div class="avatar__name">懒惰的西瓜</div>
