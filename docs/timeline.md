@@ -57,7 +57,7 @@ emmm是这样的，正常来说博客会有个按时间线展示更新的页面�
         <span class="badge badge--secondary"><a href="/docs/Novels/past_days/moon_in_mirror">破镜重圆</a></span>
         <span class="badge badge--secondary"><a href="/docs/Novels/past_days/monster_master">妖怪收集大师</a></span>
         <span class="badge badge--secondary"><a href="/docs/Novels/past_days/being_alone">高山流水</a></span>
-        <span class="badge badge--secondary"><a href="/docs/Novels/past_days//new_era">新世纪</a></span>
+        <span class="badge badge--secondary"><a href="/docs/Novels/past_days/new_era">新世纪</a></span>
         <span class="badge badge--secondary"><a href="/docs/Novels/past_days/reborn_1">复活之伊藤罗</a></span>
         <span class="badge badge--secondary"><a href="/docs/Novels/past_days/spring">傲寒</a></span>
         <span class="badge badge--secondary"><a href="/docs/Novels/past_days/en_attendant_t">等待孙十</a></span>
