@@ -70,13 +70,13 @@ emmm是这样的，正常来说博客会有个按时间线展示更新的页面�
         <span class="badge badge--secondary"><a href="/docs/Novels/past_days//new_era">新世纪</a></span>
         <span class="badge badge--secondary"><a href="/docs/Novels/past_days/reborn_1">复活之伊藤罗</a></span>
         <span class="badge badge--secondary"><a href="/docs/Novels/past_days/spring">傲寒</a></span>
-        <span class="badge badge--secondary"><a href="/docs/Novels/past_days/s/en_attendant_t">等待孙十</a></span>
+        <span class="badge badge--secondary"><a href="/docs/Novels/past_days/en_attendant_t">等待孙十</a></span>
         <span class="badge badge--secondary"><a href="/docs/Novels/past_days/white_black_rose">灰色玫瑰</a></span>
         <span class="badge badge--secondary"><a href="/docs/Novels/past_days/mythology_bullshit">神话扯个淡</a></span>
         <span class="badge badge--secondary"><a href="/docs/Novels/past_days/superman">我成了超人</a></span>
         <span class="badge badge--secondary"><a href="/docs/Novels/past_days/monster_master_extra_1">爆竹使者</a></span>
-        <span class="badge badge--secondary"><a href="/docs/Novels/past_days/rule_of_chaos/007">混沌秩序</a></span>
-        <span class="badge badge--secondary"><a href="/docs/Novels/past_days//short_series_past_days/#猫">猫</a></span>
+        <span class="badge badge--secondary"><a href="/docs/Novels/rule_of_chaos/007">混沌秩序</a></span>
+        <span class="badge badge--secondary"><a href="/docs/Novels/past_days/short_series_past_days/#猫">猫</a></span>
         <span class="badge badge--secondary"><a href="/docs/Novels/past_days/short_series_past_days/#飞鸟">飞鸟</a></span>
         <span class="badge badge--secondary"><a href="/docs/Novels/past_days/short_series_past_days/#孱弱的巨人">孱弱的巨人</a></span>
         <span class="badge badge--secondary"><a href="/docs/Novels/past_days/short_series_past_days/#我和他">我和他</a></span>
