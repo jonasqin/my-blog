@@ -1,6 +1,7 @@
 ---
 sidebar_label: '高山流水'
 sidebar_position: 5
+tags: [小说,意识流,实验体]
 ---
 
 # 高山流水（停更）

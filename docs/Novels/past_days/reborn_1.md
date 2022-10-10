@@ -1,6 +1,7 @@
 ---
 sidebar_label: '复活之伊藤罗'
 sidebar_position: 7
+tags: [小说,都市,玄幻,神话]
 ---
 
 # 复活1：伊藤罗

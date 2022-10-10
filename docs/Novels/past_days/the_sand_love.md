@@ -1,6 +1,7 @@
 ---
 sidebar_label: '沙与沫'
 sidebar_position: 1
+tags: [小说,青春,人生]
 ---
 
 # 沙与沫

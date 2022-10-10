@@ -1,6 +1,7 @@
 ---
 sidebar_label: '新世纪'
 sidebar_position: 6
+tags: [小说,都市,超级英雄]
 ---
 
 # 新世纪（废弃）

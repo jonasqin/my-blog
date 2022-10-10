@@ -1,3 +1,7 @@
+---
+tags: [python,markdown,写作,教程]
+---
+
 # 使用vs code + markdown写作
 
 不得不说，我自己是很喜欢vs code的UI的，用markdown后会给特殊格式配色——想象一个一直在黑白世界里写东西的人，突然他的世界变成了彩色，这种感觉真的很棒……

@@ -1,6 +1,7 @@
 ---
 sidebar_label: '等待孙十'
 sidebar_position: 9
+tags: [小说,小品,黑色幽默]
 ---
 
 # 等待孙十

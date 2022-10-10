@@ -1,6 +1,7 @@
 ---
 sidebar_label: '海皇戒'
 sidebar_position: 2
+tags: [小说,魔幻,浪漫主义,时空]
 ---
 
 # 海皇戒

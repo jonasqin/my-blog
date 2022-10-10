@@ -1,6 +1,7 @@
 ---
 sidebar_label: '寸草'
 sidebar_position: 0
+tags: [小说,武侠,黑色幽默,魔幻现实,实验体]
 ---
 
 # 寸草（停更）

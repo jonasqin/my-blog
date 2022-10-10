@@ -1,6 +1,7 @@
 ---
 sidebar_label: '神话扯个淡'
 sidebar_position: 11
+tags: [杂文,神话,黑色幽默]
 ---
 
 # 神话扯个淡（停更）

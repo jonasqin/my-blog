@@ -1,6 +1,7 @@
 ---
 sidebar_label: '妖怪收集大师'
 sidebar_position: 4
+tags: [小说,神话,黑色幽默,玄幻]
 ---
 
 # 妖怪收集大师（停更）

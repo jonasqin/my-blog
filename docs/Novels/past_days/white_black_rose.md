@@ -1,6 +1,7 @@
 ---
 sidebar_label: '灰色玫瑰'
 sidebar_position: 10
+tags: [小说,黑色幽默,魔幻]
 ---
 
 # 灰色玫瑰

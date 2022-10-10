@@ -1,6 +1,7 @@
 ---
 sidebar_label: '妖怪收集大师-番外'
 sidebar_position: 14
+tags: [小说,小品,玄幻]
 ---
 
 # 妖怪收集大师-番外
@@ -11,7 +12,6 @@ sidebar_position: 14
       <span class="badge badge--info">2020</span>&nbsp;&nbsp;
       <span class="badge badge--primary">小说</span>&nbsp;&nbsp;
       <span class="badge badge--secondary">小品</span>&nbsp;&nbsp;
-      <span class="badge badge--secondary">神话</span>&nbsp;&nbsp;
       <span class="badge badge--secondary">玄幻</span>
     </div>
     <div class="navbar__items navbar__items--right">

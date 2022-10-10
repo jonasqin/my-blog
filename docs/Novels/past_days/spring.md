@@ -1,6 +1,7 @@
 ---
 sidebar_label: '傲寒'
 sidebar_position: 8
+tags: [小说,青春,音乐]
 ---
 
 # 傲寒

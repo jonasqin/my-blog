@@ -1,6 +1,7 @@
 ---
 sidebar_label: '我成了超人'
 sidebar_position: 12
+tags: [小说,都市,超级英雄,玄幻]
 ---
 
 # 我成了超人（废弃）

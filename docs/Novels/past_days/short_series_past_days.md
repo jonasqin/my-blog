@@ -1,6 +1,7 @@
 ---
 sidebar_label: '短篇合集'
 sidebar_position: 13
+tags: [小说,小品,寓言,杂文]
 ---
 
 # 短片合集
@@ -9,7 +10,7 @@ sidebar_position: 13
   <div class="navbar__inner">
     <div class="navbar__items">
       <span class="badge badge--info">2014</span>&nbsp;&nbsp;
-      <span class="badge badge--primary">小说集</span>&nbsp;&nbsp;
+      <span class="badge badge--primary">小说</span>&nbsp;&nbsp;
       <span class="badge badge--secondary">小品</span>&nbsp;&nbsp;
       <span class="badge badge--secondary">寓言</span>&nbsp;&nbsp;
       <span class="badge badge--secondary">杂文</span>

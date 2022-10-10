@@ -1,3 +1,7 @@
+---
+tags: [python,markdown,教程]
+---
+
 # 用python批量替换md文件中的字符
 
 虽然这个用word很容易实现，但我就是不想先将md转docx替换完再换回来，有没有直接一点的方法？<br />这里有一个[教程](https://blog.zhheo.com/p/369dbf41.html)已经把代码弄好了……<br />学习下吧
