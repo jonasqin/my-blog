@@ -9,8 +9,8 @@ module.exports = {
     locales: ['zh'],
   },
 
-  title: 'writings',
-  tagline: 'by jojonas',
+  title: 'jojonas',
+  tagline: 'writings',
   url: 'https://jojonas.xyz/', 
   baseUrl: '/',
   projectName: 'jojonas.xyz',
