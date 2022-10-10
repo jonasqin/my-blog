@@ -86,10 +86,6 @@ module.exports = {
               href: "https://mirror.xyz/0x4A36d2c1cbAeB213591450031EbA28ef29e0F715"
             },
             {
-              label: "豆瓣阅读",
-              href: "https://mirror.xyz/0x4A36d2c1cbAeB213591450031EbA28ef29e0F715"
-            },
-            {
               label: "微信公众号",
               href: "https://mp.weixin.qq.com/s/2LiE1FVzija7SEayeBIccw"
             }
