@@ -1,6 +1,6 @@
 ---
 sidebar_label: 'Contact'
-sidebar_position: 0
+sidebar_position: 1
 ---
 
 # 我的联系方式
@@ -22,4 +22,7 @@ jonasqin@skiff.com
 ![](/img/wechat.jpg)
 
 ## 我的telegram
+
+telegram：[@jonasvv](http://t.me/jonasvv)
+
 （如果有可能，我想建一个电报小说群，大家一起聊聊小说、电影等）

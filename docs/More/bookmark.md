@@ -1,6 +1,6 @@
 ---
 sidebar_label: 'bookmark'
-sidebar_position: 1
+sidebar_position: 2
 ---
 
 # 我的网站收藏夹
@@ -20,7 +20,7 @@ sidebar_position: 1
 
 #### 深度
 
-[【Multicoin Capital】](https://multicoin.capital/)&nbsp;&nbsp;[【The Generalist】](https://www.readthegeneralist.com/briefings)&nbsp;&nbsp;[【The Block Research】](https://www.theblockresearch.com/)&nbsp;&nbsp;[【Decentralised】](https://www.decentralised.co/)&nbsp;&nbsp;[【Glassnode Insight】](https://insights.glassnode.com/)&nbsp;&nbsp;[【ETH Blog】](https://blog.ethereum.org/)&nbsp;&nbsp;[【The Tie Research】](https://research.thetie.io/)&nbsp;&nbsp;[【Blockworks Research】](https://www.blockworksresearch.com/research)&nbsp;&nbsp;[【Paradigm】](https://www.paradigm.xyz/writing)&nbsp;&nbsp;[【ETH Research】](https://ethresear.ch/)&nbsp;&nbsp;
+[【Multicoin Capital】](https://multicoin.capital/)[【The Generalist】](https://www.readthegeneralist.com/briefings)[【The Block Research】](https://www.theblockresearch.com/)[【Decentralised】](https://www.decentralised.co/)[【Glassnode Insight】](https://insights.glassnode.com/)[【ETH Blog】](https://blog.ethereum.org/)[【The Tie Research】](https://research.thetie.io/)[【Blockworks Research】](https://www.blockworksresearch.com/research)[【Paradigm】](https://www.paradigm.xyz/writing)[【ETH Research】](https://ethresear.ch/)[【zeeprime capital】](https://zeeprime.capital/blog)[【Jump Crypto】](https://jumpcrypto.com/writing/)[【a16z crypto】](https://a16zcrypto.com/)
 
 #### 加密论坛
 
@@ -28,13 +28,13 @@ sidebar_position: 1
 
 #### mirror乐高
 
-[【bress】](https://bress.xyz/zh)&nbsp;&nbsp;[【ask mirror】](https://askmirror.xyz/)&nbsp;&nbsp;[【MIRROR LATEST】](https://mirror-latest.non-standard.net/)&nbsp;&nbsp;[【mirror feed】](https://www.mirrorfeed.xyz/)&nbsp;&nbsp;
+[【bress】](https://bress.xyz/zh)&nbsp;&nbsp;[【ask mirror】](https://askmirror.xyz/)&nbsp;&nbsp;[【Mirror Latest】](https://mirror-latest.non-standard.net/)&nbsp;&nbsp;[【mirror feed】](https://www.mirrorfeed.xyz/)&nbsp;&nbsp;
 
 ### 游戏
 
 #### 市场与数据分析
 
-[【newzoo report】](https://newzoo.com/insights/trend-reports)&nbsp;&nbsp;
+[【newzoo report】](https://newzoo.com/insights/trend-reports)&nbsp;&nbsp;[【The Missing Semester of Your CS Education】](https://missing-semester-cn.github.io/)&nbsp;&nbsp;
 
 ### 技术与编程
 
@@ -51,3 +51,17 @@ sidebar_position: 1
 [【异次元软件世界】](https://www.iplaysoft.com/)&nbsp;&nbsp;
 
 To be Cntinued
+
+## 工具
+
+### 文件相关
+
+[【AlltoAll格式转换】](https://www.alltoall.net/)&nbsp;&nbsp;
+
+### AI作画
+
+[【Midjourney】](https://www.midjourney.com/)&nbsp;&nbsp;[【stable diffusion】](https://beta.dreamstudio.ai/dream)&nbsp;&nbsp;[【Dall E】]()&nbsp;&nbsp;
+
+### AI辅助写作
+
+[copy.ai](https://copy.ai/)智能辅助写作&nbsp;&nbsp;
