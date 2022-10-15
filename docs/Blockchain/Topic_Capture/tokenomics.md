@@ -88,8 +88,3 @@ tags: [tokenomics,capture,长期更新]
 
 
 [2022-10-4]&nbsp;[金融电路与 Web3 经济模型原理](https://mp.weixin.qq.com/s/LnxO5ij-jtLRIAojBMbIGA)&nbsp;&nbsp;<br/>
-
-
-
-
-[2022-1-1]&nbsp;[1](www.baidu.com)&nbsp;&nbsp;<br/>
