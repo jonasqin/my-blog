@@ -1,0 +1,72 @@
+---
+slug: machinations_userbook
+title: 经济系统模拟工具machinations介绍
+authors: jojonas
+tags: [tokenomics,代币工程]
+---
+
+<!--truncate-->
+
+最近发现了一个很好玩的代币模型模拟工具（严格来说，貌似有人将其归属于“代币工程”这样一门新兴学科），挺有意思的，分享给同样喜欢代币经济学的朋友。
+
+*全文基于我看docs的过程，没有一个清晰的框架，先行提示；相当于从我的视角去看一遍docs，希望获得完整信息的可以直接去读docs；当然，我是强烈建议直接去读docs，毕竟里面可以直接模拟它的工具，能给一个最直观的理解*
+
+## [工具框架](https://machinations.io/docs/framework-basics/)
+
+![用户页面](https://jojonas-blogs.oss-cn-guangzhou.aliyuncs.com/images/20221017105245.png)
+
+machinations的框架由以下六类基础节点构成：
+
+- 池子（pools）收集资源
+- 起源（sources）生产资源
+- 排水管（drains）消费/销毁资源
+- 转换器（converters）转换资源
+- 交易者（traders）交易资源
+- 门阀（gates）重新分配资源
+
+以及两类基础连接：
+
+- 资源链接（resource connections）决定资源如何在图表中“流淌”
+- 状态链接（state connections）修正图表中元素的基本状态（增加“逻辑判定”）
+
+这是在machinations工具中各节点、链接等的标志图：
+
+![Machinations lexicon](https://jojonas-blogs.oss-cn-guangzhou.aliyuncs.com/images/20221017111617.png)
+
+六类基础节点和两类基础连接都以“资源”（resources）为基础，那么资源是什么？
+
+资源在游戏内有很多表现形态，例如monopoly中的金钱和财产，FPS游戏中的弹药和生命值，RPG游戏中的经验值和装备等。
+
+## [建立模型](https://machinations.io/docs/tutorials-examples/)
+
+使用以上六个基础功能节点、两大基础连接，即可实现很多功能。举例来说，如果要模拟玩家打怪升级，就可以把这个过程拆分开来：“杀怪→获得经验值→将经验值转换为等级”。
+
+套用基础节点变成：
+
+杀怪（sources）（资源为XP）传输至XP池 → 转换器（converter）将XP转换为等级 → 等级流向等级池
+
+![Feedback Loop](https://jojonas-blogs.oss-cn-guangzhou.aliyuncs.com/images/20221017144606.png)
+
+在此基础上，可以通过公式来调整玩家升级所需的经验值；也可以再等级后再加一个“状态链接”（`*`表示触发条件），一旦升级则触发一个属性池，该属性池给对应的属性增加点数。如图：
+
+![人物基础属性控制板](https://jojonas-blogs.oss-cn-guangzhou.aliyuncs.com/images/20221020083121.png)
+
+当然，也可以使用门阀去控制掉落物分配规则，比如下图就是一个随机分配（骰子）：
+
+![通过骰子门阀来模拟掉率](https://jojonas-blogs.oss-cn-guangzhou.aliyuncs.com/images/20221022160801.png)
+
+machinations提供数据图表功能，比如基于以上的例子，给掉落物增加一个消耗途径，系统运行一段时间后，掉落物的数量可以被统计：
+
+![资产数量统计](https://jojonas-blogs.oss-cn-guangzhou.aliyuncs.com/images/20221022163846.png)
+
+可以看到，作为原材料的三个掉落物随着每次bow的产出不停在消耗，如果我们对应把耗材数量调高，就可以控制其在游戏内存在的数量，当然，实际游戏中并不能简单说想调就调。
+
+这里也存在一个假设，就是一旦材料数量满足生产bow的条件，就会立即进行生产；事实上，一个材料具有多种用途，我还蛮期待它如何处理多个产出物之间的协调关系的。
+
+使用门阀和状态链接，可以模拟一些游戏背后的代码逻辑。比如下图，即是“失败一次游戏结束、完美通过按xx公式增加积分，并且连续完美会累计；正常通过则加1点积分（同时会打破完美通过的累计）”，这么一个意思。
+
+![一个简单的判定](https://jojonas-blogs.oss-cn-guangzhou.aliyuncs.com/images/20221022165302.png)
+
+工具用法与示例已经介绍完毕，如果你想进一步学习，docs也放了他们与mavia等游戏合作的一些研讨会，以及一些模板，可以点击再去学习，[指路](https://machinations.io/docs/webinars/#recordings)。
+
+具体操作的话转[]()，每个节点有几种不同的模式（trigger、interactive、automatic等），这个实际操作一下就会了。反正我差不多到这ok了，之后会用这个做一些实践，毕竟实践是最快也是最好的学习方式。

@@ -58,6 +58,8 @@ tags: [tokenomics,capture,长期更新]
 
 ## 机制设计
 
+[2021-3-14]&nbsp;[Bootstrapping Web3 Networks: The Limitations of Token Incentives](https://breadcrumb.vc/bootstrapping-web3-networks-the-limitations-of-token-incentives-4b57fa54486c)&nbsp;&nbsp;<br/>
+
 [2021-6-17]&nbsp;[How can we understand and classify value creation in the web3.0 economy?](https://ahitchhikers.substack.com/p/how-can-we-understand-and-classify)&nbsp;&nbsp;<br/>
 
 [2021-9-24]&nbsp;[Tokenomics - Three things Creators need to know before making a Social Token for their community](https://coinvise.mirror.xyz/-8jI4r9zZriROBYpXJXRFZmUeq5d5yGoMxVXBp-Nizs)&nbsp;&nbsp;<br/>
