@@ -18,6 +18,7 @@ emmm是这样的，正常来说博客会有个按时间线展示更新的页面�
     <div class="card__body">
       <p>
         <span class="badge badge--secondary"><a href="/docs/Blockchain/Infra/000">公链基础</a></span>
+        <span class="badge badge--secondary"><a href="/docs/Blockchain/Game/006">游戏资产租赁模型设想</a></span>
         <span class="badge badge--secondary"><a href="/docs/Blockchain/Jokenomics/001">关于luna-ust的一些思考</a></span>
         <span class="badge badge--secondary"><a href="/docs/Blockchain/Jokenomics/002">深入探究代币经济学与旁氏结构</a></span>
         <span class="badge badge--secondary"><a href="/docs/Blockchain/Jokenomics/003">关于stepn的一些分析、反思与建议</a></span>
