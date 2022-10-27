@@ -11,7 +11,7 @@ emmm是这样的，正常来说博客会有个按时间线展示更新的页面�
 
 ## 区块链部分
 
-点这里转到会**及时更新**的[博客](/blog)页面；目前只有一篇博客，同时也暂时充当了本站的[Prologue](/docs/homepage)<br/>
+点这里转到会**及时更新**的[博客](/blog)页面；第一篇博客同时也暂时充当了本站的[Prologue](/docs/homepage)<br/>
 
 <div class="card-demo">
   <div class="card">
