@@ -1,5 +1,5 @@
 ---
-sidebar_label: 'Author recommend'
+sidebar_label: '优质作者'
 tags: [capture,长期更新]
 ---
 

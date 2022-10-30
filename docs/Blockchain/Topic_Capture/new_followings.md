@@ -1,6 +1,5 @@
 ---
 sidebar_label: '新项目记录'
-sidebar_position: 7
 tags: [Web3,news,项目跟踪,长期更新]
 ---
 
