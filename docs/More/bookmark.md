@@ -1,6 +1,6 @@
 ---
-sidebar_label: 'bookmark'
-sidebar_position: 2
+sidebar_label: '网站收藏夹'
+sidebar_position: 1
 ---
 
 # 我的网站收藏夹
@@ -9,6 +9,7 @@ sidebar_position: 2
   - [学习资源](#学习资源)
     - [Crypto+Web3](#cryptoweb3)
       - [基础知识普及](#基础知识普及)
+      - [Dune等链上分析](#dune等链上分析)
       - [新闻/社区媒体](#新闻社区媒体)
       - [深度](#深度)
       - [加密论坛](#加密论坛)
@@ -36,6 +37,9 @@ sidebar_position: 2
 
 [【RugDocWiki】](https://wiki.rugdoc.io/)&nbsp;&nbsp;[【BTC Study】](https://www.btcstudy.org/)&nbsp;&nbsp;
 
+#### Dune等链上分析
+
+[【成为链上数据分析师】](https://sixdegreelab.gitbook.io/mastering-chain-analytics/)&nbsp;&nbsp;
 
 #### 新闻/社区媒体
 

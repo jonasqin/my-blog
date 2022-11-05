@@ -1,6 +1,6 @@
 ---
-sidebar_label: 'Contact'
-sidebar_position: 1
+sidebar_label: '我的联系方式'
+sidebar_position: 0
 ---
 
 # 我的联系方式

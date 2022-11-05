@@ -1,6 +1,5 @@
 ---
-sidebar_label: 'tokenomics（含game）'
-sidebar_position: 0
+sidebar_label: 'tokenomics文章收集'
 tags: [tokenomics,capture,长期更新]
 ---
 

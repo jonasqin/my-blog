@@ -1,6 +1,5 @@
 ---
 sidebar_label: '行业发展与基础设施'
-sidebar_position: 1
 tags: [infra,capture,长期更新]
 ---
 
