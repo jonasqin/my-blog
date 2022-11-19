@@ -1141,3 +1141,5 @@ tags: [小说,魔幻,浪漫主义,时空]
 7. 总体整理一遍，我因为因果悖论获得一枚戒指，戒指的时空之力产生了两个我。其中一个随时间长大（顺流我），另一个随时间变小（逆流我），两个我记忆都存在缺陷，但是两个我之间存在着记忆流动。我和茜茜的交集只有三次：一次是最初的我和茜茜；一次是顺流我与逆流茜茜；一次是逆流我与顺流茜茜。两个茜茜之间并不存在记忆流动，顺流茜茜占据了几乎所有记忆。我因为记忆缺陷以为茜茜是想骗我的戒指，因此顺流我一直想要找到茜茜。按照故事发生顺序而言，【井（一）】发生在两个我产生之后，【海】之前；【井（二）】发生于【城市】之后。
 
 8. 茜茜其实也与海有很大关系。她来找我，自然是因为海皇戒指，但是她对我的感情，到底是不是真的呢？我也不知道。
+
+<iframe src="https://embed.0xecho.com.ipns.page?color-theme=light&desc=&has-h-padding=true&has-v-padding=true&modules=comment%2Clike%2Cdislike%2Ctip&receiver=jojonas.0xecho.bit&target_uri=https%3A%2F%2Fjojonas.xyz%2F" frameborder="0"></iframe>

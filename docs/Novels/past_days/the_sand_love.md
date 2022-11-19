@@ -700,4 +700,4 @@ tags: [小说,青春,人生]
 
 可是沫沫啊，沫沫，我再也遇不到沫沫这样的女孩了。
 
-[for echo](https://embed.0xecho.com.ipns.page/?color-theme=light&desc=&has-h-padding=true&has-v-padding=true&modules=comment%2Clike%2Cdislike%2Ctip&receiver=jojonas1.eth&target_uri=https%3A%2F%2Fmirror.xyz%2Fjojonas1.eth&height=800&display=iframe)
+<iframe src="https://embed.0xecho.com.ipns.page?color-theme=light&desc=&has-h-padding=true&has-v-padding=true&modules=comment%2Clike%2Cdislike%2Ctip&receiver=jojonas.0xecho.bit&target_uri=https%3A%2F%2Fjojonas.xyz%2F" frameborder="0"></iframe>

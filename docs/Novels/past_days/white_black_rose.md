@@ -394,3 +394,5 @@ tags: [小说,黑色幽默,魔幻]
 但这样就显得和主线情节关系不大的亚子。没有关系，只要角色名字取得好，最后还是能强行弄出一点韵味的。小说中文名《灰色玫瑰》，英文名就叫《White, black and Rose》，刚好把四个主角的名字包进来了，多好——我也不知道自己说的什么屁话。
 
 总之，大概有八个月没写东西了。难得今天还能写上一天。这篇小说依然是我黑色幽默+解构+文字游戏的风格，写完也没敢读，也懒得读，索性就直接发出来吧。
+
+<iframe src="https://embed.0xecho.com.ipns.page?color-theme=light&desc=&has-h-padding=true&has-v-padding=true&modules=comment%2Clike%2Cdislike%2Ctip&receiver=jojonas.0xecho.bit&target_uri=https%3A%2F%2Fjojonas.xyz%2F" frameborder="0"></iframe>

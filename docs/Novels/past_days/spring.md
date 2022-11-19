@@ -649,3 +649,5 @@ tags: [小说,青春,音乐]
 2017年，朴树发行专辑《猎户星座》。专辑中有一首歌叫《forever young》，对他1999年的歌曲《new boy》进行了重新填词和编曲。歌词里唱“just那么年少，还那么骄傲，两眼带刀，不肯求饶”，就像十八年前唱“以后的路不会再有痛苦，我们的未来该有多酷”。同样的旋律，一首朝气蓬勃，一首永远年轻。
 
 十八年后，世纪之交的年轻人们陆续都步入了中年，即将随着时光慢慢老去。新世纪并非他们想象中那样充满梦幻与阳光，但新鲜的血液终将一直存在，并将所有值得延续的都延续下去。
+
+<iframe src="https://embed.0xecho.com.ipns.page?color-theme=light&desc=&has-h-padding=true&has-v-padding=true&modules=comment%2Clike%2Cdislike%2Ctip&receiver=jojonas.0xecho.bit&target_uri=https%3A%2F%2Fjojonas.xyz%2F" frameborder="0"></iframe>

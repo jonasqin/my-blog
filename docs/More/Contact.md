@@ -23,7 +23,7 @@ jonasqin@skiff.com
 
 ## 我的telegram
 
-telegram：[@jonasvv](http://t.me/jonasvv)
+telegram：[@jojonas_xyz](http://t.me/jojonas_xyz)
 
 （如果有可能，我想建一个电报小说群，大家一起聊聊小说、电影等）
 

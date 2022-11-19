@@ -15,7 +15,7 @@ zksync
 
 [31个公链项目整理](https://mirror.xyz/3344521.eth/VJL35c6Vl4suNY3icPt82_LH2UyB8OwOGDXEu9EDWEk)
 
-[筛选空投项目信息]（https://airdrops.io/）
+[筛选空投项目信息](https://airdrops.io/)
 
 https://mirror.xyz/0xF2eE2c1FF9A392c23C11664D12A5C656794B7081/clnT7nsClIREBUbwRztGXdW6S_UXw3iIbXtsxtiP_KU
 
@@ -27,6 +27,12 @@ https://mirror.xyz/0xF2eE2c1FF9A392c23C11664D12A5C656794B7081/clnT7nsClIREBUbwRz
 
 <p align="right"><span class="badge badge--primary">2022-10-22</span></p>
 
-做了下zksync，内容参考[这篇文章](https://cryptohot.substack.com/p/zksync)；1.0做了官方桥跨链、zigzag两次swap总额0.16ETH、mint NFT，2.0测试网做了mute、mintsquare；
+做了下**zksync**，内容参考[这篇文章](https://cryptohot.substack.com/p/zksync)；1.0做了官方桥跨链、zigzag两次swap总额0.16ETH、mint NFT，2.0测试网做了mute、mintsquare；
 
 <p align="right"><span class="badge badge--primary">2022-10-30</span></p>
+
+做了**scroll**测试网，layer1/2互转、layer2的swap与流动性添加。
+
+今天打算做下[StarkNet](https://mirror.xyz/0x76aF6d202e71E4f84126aC36121dF6029DA63Ae0/zJnilTECV9jsByTffWJPdwfUMKU68jt4zjB_3JYChDI)，目前还没做，晚上回去做下。**starknet**做了官方桥、10kswap等项目。
+
+<p align="right"><span class="badge badge--primary">2022-11-15</span></p>

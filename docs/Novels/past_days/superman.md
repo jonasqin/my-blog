@@ -1712,3 +1712,5 @@ A是一个戴着眼睛的斯文小青年。听到这话，A划着轮椅过来。
 电视里的播报员正在播报着一名男子在老旧大楼的楼顶触电身亡的消息，呼吁老旧大楼做好安全管理。
 
 到底发生了什么？我心里疑惑，缩进被子里堵住耳朵。
+
+<iframe src="https://embed.0xecho.com.ipns.page?color-theme=light&desc=&has-h-padding=true&has-v-padding=true&modules=comment%2Clike%2Cdislike%2Ctip&receiver=jojonas.0xecho.bit&target_uri=https%3A%2F%2Fjojonas.xyz%2F" frameborder="0"></iframe>

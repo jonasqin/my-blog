@@ -748,3 +748,5 @@ tags: [小说,武侠,黑色幽默,魔幻现实,实验体]
 假如打不中呢？
 
 不可能的。
+
+<iframe src="https://embed.0xecho.com.ipns.page?color-theme=light&desc=&has-h-padding=true&has-v-padding=true&modules=comment%2Clike%2Cdislike%2Ctip&receiver=jojonas.0xecho.bit&target_uri=https%3A%2F%2Fjojonas.xyz%2F" frameborder="0"></iframe>
