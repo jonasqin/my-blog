@@ -38,15 +38,15 @@ sidebar_position: 1
 
 ### 新闻/社区媒体
 
-[【Decrypt News】](https://decrypt.co/news)&nbsp;&nbsp;[【暴躁兔链游社区】](https://gamefi.ask4coin.com/)&nbsp;&nbsp;[【区块律动】](https://www.theblockbeats.info/)&nbsp;&nbsp;[【巴比特】](https://www.8btc.com/)&nbsp;&nbsp;[【链茶馆】](http://www.lianchaguan.com/)&nbsp;&nbsp;[【响指研究院】](https://research.snapfingers.com/)&nbsp;&nbsp;[【链捕手】](https://www.chaincatcher.com/)&nbsp;&nbsp;[【星球日报】](https://www.odaily.news/)&nbsp;&nbsp;
+[【Decrypt News】](https://decrypt.co/news)&nbsp;&nbsp;[【暴躁兔链游社区】](https://gamefi.ask4coin.com/)&nbsp;&nbsp;[【区块律动】](https://www.theblockbeats.info/)&nbsp;&nbsp;[【巴比特】](https://www.8btc.com/)&nbsp;&nbsp;[【链茶馆】](http://www.lianchaguan.com/)&nbsp;&nbsp;[【响指研究院】](https://research.snapfingers.com/)&nbsp;&nbsp;[【链捕手】](https://www.chaincatcher.com/)&nbsp;&nbsp;[【星球日报】](https://www.odaily.news/)&nbsp;&nbsp;[【BlockWorks】](https://www.blockworksresearch.com/)&nbsp;&nbsp;
 
 ### 深度观点
 
-[【Multicoin Capital】](https://multicoin.capital/)[【The Generalist】](https://www.readthegeneralist.com/briefings)[【The Block Research】](https://www.theblockresearch.com/)[【Decentralised】](https://www.decentralised.co/)[【Glassnode Insight】](https://insights.glassnode.com/)[【ETH Blog】](https://blog.ethereum.org/)[【The Tie Research】](https://research.thetie.io/)[【Blockworks Research】](https://www.blockworksresearch.com/research)[【Paradigm】](https://www.paradigm.xyz/writing)[【ETH Research】](https://ethresear.ch/)[【zeeprime capital】](https://zeeprime.capital/blog)[【Jump Crypto】](https://jumpcrypto.com/writing/)[【a16z crypto】](https://a16zcrypto.com/)[【State of Stake】](https://newsletter.stakingrewards.com/)[【Sequoia Capital】](https://www.sequoiacap.com/)&nbsp;&nbsp;
+[【Multicoin Capital】](https://multicoin.capital/)[【The Generalist】](https://www.readthegeneralist.com/briefings)[【The Block Research】](https://www.theblockresearch.com/)[【Decentralised】](https://www.decentralised.co/)[【Glassnode Insight】](https://insights.glassnode.com/)[【ETH Blog】](https://blog.ethereum.org/)[【The Tie Research】](https://research.thetie.io/)[【Blockworks Research】](https://www.blockworksresearch.com/research)[【Paradigm】](https://www.paradigm.xyz/writing)[【ETH Research】](https://ethresear.ch/)[【zeeprime capital】](https://zeeprime.capital/blog)[【Jump Crypto】](https://jumpcrypto.com/writing/)[【a16z crypto】](https://a16zcrypto.com/)[【State of Stake】](https://newsletter.stakingrewards.com/)[【Sequoia Capital】](https://www.sequoiacap.com/)&nbsp;&nbsp;[【Outlier Ventures】](https://outlierventures.io/)&nbsp;&nbsp;
 
 ### 加密论坛
 
-[【Nervos talk-加密经济学】](https://talk.nervos.org/c/chinese/37-category/37)&nbsp;&nbsp;[【Nervos talk-layer2】](https://talk.nervos.org/c/chinese/layer-2/36)&nbsp;&nbsp;
+[【Nervos talk-加密经济学】](https://talk.nervos.org/c/chinese/37-category/37)&nbsp;&nbsp;[【Nervos talk-layer2】](https://talk.nervos.org/c/chinese/layer-2/36)&nbsp;&nbsp;[【中国信通院-研究】](http://www.caict.ac.cn/kxyj/qwfb/bps/index.htm)&nbsp;&nbsp;
 
 ### mirror乐高
 

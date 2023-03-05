@@ -97,15 +97,6 @@ module.exports = {
           ]
         },
         {
-          title: "Feed Me",
-          items: [
-            {
-              label: "OKX奖励",
-              href: "https://www.lybg1688.com/join/11866098"
-            }
-          ]
-        },
-        {
           title: "Community",
           items: [
           ]
