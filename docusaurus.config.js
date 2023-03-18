@@ -30,7 +30,7 @@ module.exports = {
       },
       items: [
         {
-          href: 'https://twitter.com/jokenomicser/',
+          href: 'https://twitter.com/jojonas_xyz/',
           label: 'Twitter',
           position: 'right',
         },
