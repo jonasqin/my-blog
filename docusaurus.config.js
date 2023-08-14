@@ -35,6 +35,11 @@ module.exports = {
           position: 'right',
         },
         {
+          href: 'https://t.me/jojonas_xyz',
+          label: 'Telegram',
+          position: 'right',
+        },
+        {
           href: 'https://lenster.xyz/u/jojonas1.lens',
           label: 'Lenster',
           position: 'right',
