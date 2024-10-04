@@ -53,15 +53,6 @@ module.exports = {
           label: "blogs",
           to: "/blog"
         },
-        {
-          label: "寸草",
-          to: "/docs/Novels/past_days/life_spread/"
-        },
-        {
-          label: "沙与沫",
-          to: "/docs/Novels/past_days/the_sand_love/"
-        }
-      ],
     },
     footer: {
       style: 'light',
